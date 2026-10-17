@@ -1,0 +1,6 @@
+{
+  "name": "Ayiti: Haiti Cultural & Historical Showcase",
+  "description": "Discover the Republic of Haiti: essential facts, legendary figures, iconic architectural landmarks, and vibrant cultural artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
